@@ -812,8 +812,6 @@ dependencies = [
 [[package]]
 name = "spacedust"
 version = "1.1.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "7c130ab4a8b45613d3bfa09bf34334e691b8d0696d495e986bc0208a8df93189"
 dependencies = [
  "async-trait",
  "reqwest",
