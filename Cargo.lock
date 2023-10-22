@@ -830,6 +830,7 @@ dependencies = [
 name = "spacetraders-talis"
 version = "0.1.0"
 dependencies = [
+ "serde_json",
  "spacedust",
  "tokio",
 ]
